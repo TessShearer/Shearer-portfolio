@@ -18,7 +18,7 @@
 }
 
 
-/* Header */
+/* Nav/Header */
 
 .header {
   /* Coloring */
@@ -52,6 +52,7 @@
 .header nav ul li {
   background-color: var(--light-green);
   padding: 5px 10px;
+  border: 2px solid var(--light-green);
 }
 
 .header nav ul li:hover {
@@ -123,7 +124,7 @@
 .github-link:hover {
   color: var(--brown);
   background-color: var(--light-green);
-  border: 1px solid var(--dark-green);
+  border: 4px solid var(--dark-green);
 }
 
 
@@ -218,6 +219,8 @@ form input {
   color: var(--dark-green);
   text-decoration: none;
   padding: 5px;
+  border: 2px solid var(--light-green);
+  border-radius: 5px;
 }
 
 .footer a:hover {

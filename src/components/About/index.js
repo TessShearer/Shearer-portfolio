@@ -6,7 +6,8 @@ function About() {
     <section className="my-5">
       <h1 id="about">About Me</h1>
       <img src={selfPortrait} className="self-portrait" alt="self portrait" />
-      <p className="bio">My name is Tess Shearer. I graduated in with a Bachelor's Degree in Communication Disorders from Brigham Young University in 2021. I am graduating with a certificate in full stack development from the University of Utah this August. I have experience with HTML, CSS, GitHub, JavaScript, React, Node, Express, and Mongoose.</p>
+      <p className="bio">Front-end web developer with a background in communication and communication disorders. Builds upon background to create a more straight-forward user experience. Recently earned a full stack development certificate from the University of Utah, with focus on skills such as JavaScript, React, CSS, MongoDB, Node, and responsive web design. Designs projects with a goal to make the experience intuitive and simplistic for the user, combining design and functionality of the web page to do so. Previously designed online portfolios, responsive websites, React applications, and a full MERN stack video library as part of a team. Excited for the opportunity to make and improve upon new projects.
+</p>
     </section>
   );
 }

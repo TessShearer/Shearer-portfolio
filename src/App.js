@@ -3,8 +3,8 @@ import './App.css';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
-import Contact from './components/Contact';
-// import 'bootstrap/dist/css/bootstrap.min.css';
+// import Contact from './components/Contact';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
@@ -27,9 +27,9 @@ function App() {
                     <li className={(selectedSection)==="Resume"?"selected navLink":"navLink"} onClick={() => setSelectedSection("Resume")}>
                         Resume
                     </li>
-                    <li className={(selectedSection)==="Contact"?"selected navLink":"navLink"} onClick={() => setSelectedSection("Contact")}>
+                    {/* <li className={(selectedSection)==="Contact"?"selected navLink":"navLink"} onClick={() => setSelectedSection("Contact")}>
                         Contact Me
-                    </li>
+                    </li> */}
                 </ul>
             </nav>
         </header>
@@ -38,7 +38,7 @@ function App() {
           {selectedSection === "About Me" && <About></About>}
           {selectedSection === "Portfolio" && <Portfolio></Portfolio>}
           {selectedSection === "Resume" && <Resume></Resume>}
-          {selectedSection === "Contact" && <Contact></Contact>}
+          {/* {selectedSection === "Contact" && <Contact></Contact>} */}
         </main>
       </section>
       <section className="footer">
