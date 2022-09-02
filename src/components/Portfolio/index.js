@@ -4,7 +4,7 @@ import CodeQuiz from '../../assets/images/Code-Quiz-Screenshot.png'
 import RunBuddy from '../../assets/images/Run-Buddy.jpeg'
 import Weather from '../../assets/images/weather-dashboard.png'
 import AltPortfolio from '../../assets/images/portfolio.png'
-import SocialNetwork from '../../assets/images/social-network-api.png'
+import WhattoWatch from '../../assets/images/What-to-watch.png'
 
 function Portfolio() {
     return (
@@ -68,12 +68,12 @@ function Portfolio() {
                     </div>
                 </div>
                 <div className="col-5 portfolio-apps">
-                    <h3>Social Network</h3>
-                    <a href="https://github.com/TessShearer/Social-Network-API" target="_blank" rel="noreferrer"> <img
-                        src={SocialNetwork} className="picture-link" alt="The Social Network Application" /> </a>
+                    <h3>Movie Search Engine</h3>
+                    <a href="https://pacific-anchorage-44756.herokuapp.com/" target="_blank" rel="noreferrer"> <img
+                        src={WhattoWatch} className="picture-link" alt="The Social Network Application" /> </a>
                     <div>
 
-                        <a href="https://github.com/TessShearer/Social-Network-API" target="_blank" rel="noreferrer" className="github-link">This Project is only the back end, view GitHub Repository</a>
+                        <a href="https://github.com/TessShearer/what-to-watch" target="_blank" rel="noreferrer" className="github-link">View GitHub Repository</a>
                     </div>
                 </div>
                 <div className="col-1">
