@@ -1,9 +1,9 @@
 import React from 'react';
 import AfterParty from '../../assets/images/afterparty_screenshot.png'
-import CodeQuiz from '../../assets/images/Code-Quiz-Screenshot.png'
+import Karate from '../../assets/images/karate-screenshot.png'
 import RunBuddy from '../../assets/images/Run-Buddy.jpeg'
 import Weather from '../../assets/images/weather-dashboard.png'
-import AltPortfolio from '../../assets/images/portfolio.png'
+import Wordle from '../../assets/images/wordle-screenshot.png'
 import WhattoWatch from '../../assets/images/What-to-watch.png'
 
 function Portfolio() {
@@ -21,11 +21,11 @@ function Portfolio() {
                     </div>
                 </div>
                 <div className="col-5 portfolio-apps">
-                    <h3>Coding Quiz</h3>
-                    <a href="https://tessshearer.github.io/Code-Quiz/" target="_blank" rel="noreferrer"> <img
-                        src={CodeQuiz} className="picture-link" alt="The Coding Quiz Application" /> </a>
+                    <h3>Cory's Karate</h3>
+                    <a href="https://github.com/CoryTessFisher/CorysKarate2020" target="_blank" rel="noreferrer"> <img
+                        src={Karate} className="picture-link" alt="Cory's Karate Website" /> </a>
                     <div>
-                        <a href="https://github.com/TessShearer/Code-Quiz" target="_blank" rel="noreferrer" className="github-link">View Github Repository Here</a>
+                        <a href="https://coryskarate.com/" target="_blank" rel="noreferrer" className="github-link">View Github Repository Here</a>
                     </div>
                 </div>
                 <div className="col-1">
@@ -44,11 +44,11 @@ function Portfolio() {
                     </div>
                 </div>
                 <div className="col-5 portfolio-apps">
-                    <h3>Alternate Portfolio</h3>
-                    <a href="https://tessshearer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img
-                        src={AltPortfolio} className="picture-link" alt="The Alternate Portfolio Application" /> </a>
+                    <h3>Wordle Filter</h3>
+                    <a href="https://tessshearer.github.io/5letters/" target="_blank" rel="noreferrer"> <img
+                        src={Wordle} className="picture-link" alt="A Wordle Filter Application" /> </a>
                     <div>
-                        <a href="https://github.com/TessShearer/Portfolio" target="_blank" rel="noreferrer" className="github-link">View Github Repository Here</a>
+                        <a href="https://github.com/TessShearer/5letters" target="_blank" rel="noreferrer" className="github-link">View Github Repository Here</a>
                     </div>
                 </div>
                 <div className="col-1">
