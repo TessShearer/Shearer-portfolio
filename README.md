@@ -1,4 +1,4 @@
-# Tess Shearer Portfolio
+# React Portfolio
 
 # Table of Contents
 [Description](#description)
@@ -12,11 +12,10 @@
 
 ![Screenshot of Portfolio](./src/assets/images/reactportfolio.png)
 
-Visit the finished product here: https://tessshearer.github.io/Shearer-portfolio/
+Visit the finished product here: https://tessshearer.github.io/react-portfolio/
 
 # License
   This project remains unlicensed.
-
 
 # Questions
 Contact Information: If you have questions, view the GitHub profile below or direct them to the below email. <br>
