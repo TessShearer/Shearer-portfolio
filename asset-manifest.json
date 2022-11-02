@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shearer-portfolio/static/css/main.fbfb07ab.css",
+    "main.js": "/Shearer-portfolio/static/js/main.670d8c8e.js",
+    "static/js/787.cd7f6f00.chunk.js": "/Shearer-portfolio/static/js/787.cd7f6f00.chunk.js",
+    "static/media/afterparty_screenshot.png": "/Shearer-portfolio/static/media/afterparty_screenshot.91195ec8e2c66296aad3.png",
+    "static/media/karate-screenshot.png": "/Shearer-portfolio/static/media/karate-screenshot.c7dfa2b30c1d83c3ceec.png",
+    "static/media/wordle-screenshot.png": "/Shearer-portfolio/static/media/wordle-screenshot.148e0a516d39d11ba602.png",
+    "static/media/Run-Buddy.jpeg": "/Shearer-portfolio/static/media/Run-Buddy.1a76fbea3a5449b301a3.jpeg",
+    "static/media/What-to-watch.png": "/Shearer-portfolio/static/media/What-to-watch.7ca53c6b395966b052ae.png",
+    "static/media/self.jpg": "/Shearer-portfolio/static/media/self.9e033ccbd7279f3ef582.jpg",
+    "static/media/Resume.pdf": "/Shearer-portfolio/static/media/Resume.3fd3c3c6ea68c0fcc1ab.pdf",
+    "static/media/weather-dashboard.png": "/Shearer-portfolio/static/media/weather-dashboard.e9e118f68fe0449ae7a0.png",
+    "index.html": "/Shearer-portfolio/index.html",
+    "main.fbfb07ab.css.map": "/Shearer-portfolio/static/css/main.fbfb07ab.css.map",
+    "main.670d8c8e.js.map": "/Shearer-portfolio/static/js/main.670d8c8e.js.map",
+    "787.cd7f6f00.chunk.js.map": "/Shearer-portfolio/static/js/787.cd7f6f00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfb07ab.css",
+    "static/js/main.670d8c8e.js"
+  ]
+}
